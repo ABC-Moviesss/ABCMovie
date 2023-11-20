@@ -96,6 +96,22 @@ margin-top: 100%;
 text-decoration: none !important;
 }
 
+p:link {
+    text-decoration: none;
+} 
+
+p:visited {
+    text-decoration: none;
+}
+
+p:hover {
+    text-decoration: none;
+}
+
+p:active {
+    text-decoration: none;
+}
+
 .title {
 background-color: #1e1e1e;
 display: flex;
