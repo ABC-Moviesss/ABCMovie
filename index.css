@@ -498,7 +498,10 @@ header {
   text-shadow: 5px 5px 10px #000;
   text-align: center;
   font-size: 80px;
-  text-decoration: none !important;
+}
+
+p .rank {
+  text-decoration: none;
 }
 
 .OTR1 {
