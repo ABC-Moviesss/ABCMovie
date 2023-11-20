@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-montserrat: Montserrat;
+  --font-dela-gothic-one: "Dela Gothic One";
+  --font-mohave: "Mohave";
+
+  /* font sizes */
+  --font-size-xl: 20px;
+  --font-size-5xl: 24px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gold: #ffc700;
+
+  /* Border radiuses */
+  --br-21xl: 40px;
+}
